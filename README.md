@@ -53,7 +53,7 @@ Face Recognition Based Smart Attendance System. It is not only mark your attenda
 <img src="https://github.com/harshit-jain-2109/Smart-Attendance-Management/blob/main/chatbot.png">
 
 ### How it works? See:)
-<img src="https://github.com/harshit-jain-2109/Smart-Attendance-Management/blob/main/7afa7a73-eb71-455b-86f7-777f9ebe2079.mp4">
+<img src="[https://github.com/harshit-jain-2109/Smart-Attendance-Management/blob/main/7afa7a73-eb71-455b-86f7-777f9ebe2079.mp4](https://youtu.be/o_Ji7Up4RSM)">
 
 
 ### Notes
