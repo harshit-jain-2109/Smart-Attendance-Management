@@ -32,17 +32,19 @@ Face Recognition Based Smart Attendance System. It is not only mark your attenda
 ### Screenshots
 
 ### Basic UI
-<img src="">
+<img src="https://github.com/harshit-jain-2109/Smart-Attendance-Management/blob/main/basic%20ui.png">
+
+### Student details
+<img src="https://github.com/harshit-jain-2109/Smart-Attendance-Management/blob/main/details.png">
+
+### Training Portal
+<img src="https://github.com/harshit-jain-2109/Smart-Attendance-Management/blob/main/training.png">
 
 ### When it's Recognise me
-<img src="">
+<img src="https://github.com/harshit-jain-2109/Smart-Attendance-Management/blob/main/recognition.png">
 
 ### When it's fill a attendace
-<img src="">
-
-### Manually attendance filling UI
-<img src="">
-
+<img src="https://github.com/harshit-jain-2109/Smart-Attendance-Management/blob/main/csv.png">
 
 ### How it works? See:)
 
