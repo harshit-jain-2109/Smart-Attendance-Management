@@ -47,10 +47,10 @@ Face Recognition Based Smart Attendance System. It is not only mark your attenda
 <img src="https://github.com/harshit-jain-2109/Smart-Attendance-Management/blob/main/csv.png">
 
 ### Notification Portal
-<img src="[https://github.com/harshit-jain-2109/Smart-Attendance-Management/blob/main/csv.png](https://github.com/harshit-jain-2109/Smart-Attendance-Management/blob/main/notification.png)">
+<img src="https://github.com/harshit-jain-2109/Smart-Attendance-Management/blob/main/notification.png">
 
 ### Chatbot
-<img src="[https://github.com/harshit-jain-2109/Smart-Attendance-Management/blob/main/csv.png](https://github.com/harshit-jain-2109/Smart-Attendance-Management/blob/main/chatbot.png)">
+<img src="https://github.com/harshit-jain-2109/Smart-Attendance-Management/blob/main/chatbot.png">
 
 ### How it works? See:)
 
