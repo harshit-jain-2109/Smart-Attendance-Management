@@ -1,2 +1,61 @@
-# Smart-Attendance-Management
-Face Recognition Based Smart Attendance System. It is not only mark your attendance but also send notification via mail &amp; sms. It also contain pre-defined instruction chatbot. UI is build using Tkinter which is very popular Framework of Python used to build Desktop applications.
+##  Smart Attendance Management system using Face👦🏻👧 Recognition 
+Face Recognition Based Smart Attendance System. It is not only mark your attendance but also send notification via mail & sms. It also contain pre-defined instruction chatbot. UI is build using Tkinter which is very popular Framework of Python used to build Desktop applications.
+
+## Hi, I'm Harshit Jain! 👋
+
+- my PortFolio Website[@Harshit Jain](https://branium.epizy.com/)
+
+## Code Requirements
+
+- Opencv(pip install opencv-python)
+- Tkinter(Available in python)
+- pip install mysql
+- pip install csv
+- pip install cv2
+- pip install pyttsx3
+- pip install datetime
+- pip install pytz
+- pip install twilio
+- pip install smtp
+
+
+## Project Structure
+
+- After run you need to give your face data to system so enter your ID and name in box than click on Take Images button.
+- It will collect 100 images of your faces, it save a images in data folder
+- After that we need to train a model(for train a model click on Train Image button.
+- It will take 1 minute for training(for 5 person data).
+- After training click on Face Detector ,it can fill attendace by your face using our trained model (model will save in TrainingImageLabel )
+- it will create .csv file of attendance according to time & name.
+- You can store data in database (mysql workbench),change the DB name according to your needs.
+
+### Screenshots
+
+### Basic UI
+<img src="">
+
+### When it's Recognise me
+<img src="">
+
+### When it's fill a attendace
+<img src="">
+
+### Manually attendance filling UI
+<img src="">
+
+
+### How it works? See:)
+
+<img src="">
+
+### Video demo
+
+[Youtube]()
+
+
+### Notes
+- It will require high processing power(I have 8 GB RAM & 2 GB GC)
+- If you think it will recognise person just like humans,than leave it ,its not possible.
+- Noisy image can reduce your accuracy so quality of images matter.
+
+## Just follow☝️ me and Star⭐ my repository 
