@@ -1,0 +1,28 @@
+*****Requirements*****
+----------------------------------
+1) Libraries
+-pip install tkinter
+-pip install opencv
+-pip install mysql
+-pip install csv
+-pip install cv2
+-pip install pyttsx3
+-pip install datetime
+-pip install pytz
+-pip install twilio
+-pip install smtp
+-----------------------------------
+2) Python Version 3.11 (Python 3.11.5)
+-----------------------------------
+3)Software Used
+-Pycharm IDE
+-Mysql WorkBench (For Building the database).
+-Twilio Account
+-----------------------------------
+4)Hardware Requirements
+-camera
+-storage
+-processor
+-----------------------------------
+
+
